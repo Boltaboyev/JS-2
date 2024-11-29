@@ -16,9 +16,9 @@
 // let sum = 0
 
 // for (let i = 0; i < text.length; i++) {
-//     let char = text[i]
-//     if (char >= "0" && char <= "9") {
-//         sum += Number(char)
+//     let a = text[i]
+//     if (a >= "0" && a <= "9") {
+//         sum += Number(a)
 //     }
 // }
 
